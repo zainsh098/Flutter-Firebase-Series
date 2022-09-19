@@ -1,10 +1,15 @@
-# firebase_series
+# Flutter Firebase series
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a about the firebase services that they are providing.
+#Phone Number Authentication
+#Realtime Database
+#Email Signup/ Login
+# much more things 
+
 
 A few resources to get you started if this is your first Flutter project:
 
