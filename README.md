@@ -5,9 +5,13 @@ A new Flutter project.
 ## Getting Started
 
 This project is a about the firebase services that they are providing.
-#Phone Number Authentication
-#Realtime Database
-#Email Signup/ Login
+
+# Phone Number Authentication
+
+# Realtime Database
+
+## Email Signup/ Login
+
 # much more things 
 
 
